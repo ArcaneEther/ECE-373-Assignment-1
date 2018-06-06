@@ -1,0 +1,19 @@
+Script started on Mon 09 Apr 2018 11:31:15 AM PD
+jeremyhiggins@PC-E5420: $ pwd
+/home/jeremyhiggins
+jeremyhiggins@PC-E5420: $ ls-l
+total 60
+drwxr-xr-x  5 jeremyhiggins jeremyhiggins  4096 Apr  7 13:45 Desktop
+drwxr-xr-x  3 jeremyhiggins jeremyhiggins  4096 Apr  3 10:00 Documents
+drwxr-xr-x  2 jeremyhiggins jeremyhiggins 24576 Mar 29 09:07 Downloads
+drwxr-xr-x  2 jeremyhiggins jeremyhiggins  4096 Mar  5 09:19 Music
+drwxr-xr-x  3 jeremyhiggins jeremyhiggins  4096 Mar 29 09:15 Pictures
+drwxr-xr-x  2 jeremyhiggins jeremyhiggins  4096 Mar  5 09:19 Public
+drwxr-xr-x  2 jeremyhiggins jeremyhiggins  4096 Mar  5 09:19 Templates
+-rw-rw-r--  1 jeremyhiggins jeremyhiggins     0 Apr  9 11:31 typescript1.txt
+drwxr-xr-x  2 jeremyhiggins jeremyhiggins  4096 Mar  5 09:19 Videos
+jeremyhiggins@PC-E5420: $ mkdir ECE373-A2
+jeremyhiggins@PC-E5420: $ cd ECE373-A2
+jeremyhiggins@PC-E5420: $ exit
+
+Script done on Mon 09 Apr 2018 11:31:43 AM PDT

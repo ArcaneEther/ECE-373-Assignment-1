@@ -1,0 +1,12 @@
+Script started on Mon 09 Apr 2018 12:20:33 PM PDT
+jeremyhiggins@PC-E5420: ~/Desktop$ g++ SimpleCProgram.c -o SimpleCProgram
+jeremyhiggins@PC-E5420: ~/Desktop$ ./SimpleCProgram
+Program requires an integer. Exiting.
+
+jeremyhiggins@PC-E5420: ~/Desktop$ ./SimpleCProgram 45
+Received 45.
+45 + 5 = 50.
+
+jeremyhiggins@PC-E5420: ~/Desktop$ exit
+
+Script done on Mon 09 Apr 2018 12:20:46 PM PDT
